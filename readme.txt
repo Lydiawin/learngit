@@ -5,4 +5,4 @@ Git tracks changes of files.
 OK
 Creating a new branch is quick.
 OK3
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.

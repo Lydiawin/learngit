@@ -6,3 +6,4 @@ OK
 Creating a new branch is quick.
 OK3
 Creating a new branch is quick and simple.
+add merge
